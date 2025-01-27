@@ -9,6 +9,8 @@
 
 A Model Context Protocol server providing LLM Agents a second opinion via AI-powered Deepseek-Reasoning (R1) mentorship capabilities, including code review, design critique, writing feedback, and idea brainstorming through the Deepseek API. Set your LLM Agent up for success with expert second opinions and actionable insights.
 
+<a href="https://glama.ai/mcp/servers/fdyf7qsmit"><img width="380" height="200" src="https://glama.ai/mcp/servers/fdyf7qsmit/badge" alt="Mentor Server MCP server" /></a>
+
 ## Model Context Protocol
 
 The Model Context Protocol (MCP) enables communication between:
