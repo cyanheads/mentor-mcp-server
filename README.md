@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cyanheads-mentor-mcp-server-badge.png)](https://mseep.ai/app/cyanheads-mentor-mcp-server)
+
 # mentor-mcp-server
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
